@@ -11,14 +11,13 @@ import Side from './Components/SideBar'
 function App() {
   return (
     <>
-      {/* <Router>
+      <Router>
         <Routes>
           <Route path='/' element={<Home/>} />
           <Route path='/About' element={<About/>}/>
           <Route path='/Projects' element={<Projects/>}/>
         </Routes>
-      </Router> */}
-      <Side/>
+      </Router> 
     </>
   );
 }
