@@ -104,7 +104,7 @@ function Home() {
                 <a href='#' className='round'><i class="fa-brands fa-facebook-f fa-lg"></i></a>
             </div>
             <div id="Third">
-                <a href="https://drive.google.com/file/d/1383gpu0PGF7uIPxSfDJW1Ag4VUanfECV/view" target="_blank" rel="noopener noreferrer">Downlad My Cv</a>
+                <a href="https://drive.google.com/file/d/1383gpu0PGF7uIPxSfDJW1Ag4VUanfECV/view" target="_blank" rel="noopener noreferrer">Download My CV</a>
             </div>
         </div>
         {/* <hr /> */}
